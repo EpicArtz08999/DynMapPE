@@ -4,5 +4,6 @@ sql:
   user: root
   password: 
   database: 
-  port: 
+  port: ~
+language: "german"
 ...

@@ -2,4 +2,6 @@
 german:
  - no-permission: "Keine Berechtigung"
  - invalid-arguments: "Falsche Argumente"
+ - will-update-dynap: "DynMap wird aktualisiert"
+ - successfully-updated: "Dynmap erfolgreich aktualisiert"
 ...

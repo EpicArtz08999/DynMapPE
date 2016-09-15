@@ -1,5 +1,9 @@
 ---
-array:
-- key1
-- key2
+sql:
+  host: localhost
+  user: root
+  password: bqkAWQ4MC
+  database: _289918_2
+  port: ~
+language: german
 ...
