@@ -1,0 +1,17 @@
+  name: DynMapPE
+  main: thebigsmileXD\DynMapPE\Main
+  version: 0.0.1
+  api: 1.0.0
+  load: POSTWORLD
+  prefix: "DynMapPE"
+  authors: [thebigsmileXD]
+  description: "DynMap portet to PocketMine"
+  commands:
+   dynmaprefresh:
+    description: "Dynmap refresh"
+    usage: "/dynmaprefresh"
+    permission: dynmap.cmd
+  permissions:
+    dynmap.cmd:
+      description: Allows users to use all /dynmap commands
+      default: true
