@@ -6,7 +6,7 @@
 <div class="text">
 DynMapPE
 </div><div class="small-header" style="color:black;text-decoration:none;float:left;">A DynMap for PocketMine</div>
-<div class="text-right"><a class="small-header" href="https://github.com/ImagicalCorp/DynMapPE">View on GitHub <img src="http://1.1.1.4/bmi/5.175.226.133/dynmappe/GitHub-Mark-32px.png"></a>
+<div class="text-right"><a class="small-header" href="https://github.com/thebigsmileXD/DynMapPE">View on GitHub <img src="http://1.1.1.4/bmi/5.175.226.133/dynmappe/GitHub-Mark-32px.png"></a>
   <br><a class="small-header" href="https://github.com/thebigsmileXD">by @thebigsmileXD</a></div>
 </header>
 <div class="map">
