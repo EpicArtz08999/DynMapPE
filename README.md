@@ -21,4 +21,4 @@ Currently this is not finished. Wait for the beta to release
 - adding chat and skin heads
 
 ## Notes
-This plugin was coded and is maintained by @thebigsmileXD of the Imagical Corporation. This plugin will be public for everyone, but it's currently in beta. Hopefully you find it useful.
+This plugin was coded and is maintained by @thebigsmileXD. This plugin will be public for everyone, but it's currently in beta. Hopefully you find it useful.
